@@ -32,9 +32,11 @@ composer
 
 https://getcomposer.org/download/
 
-run php migrate
+## Run migrate
+php artisan migrate
 
-run serve php artisan server
+## Run project
+php artisan server
 
 # ProyectoSena
 
